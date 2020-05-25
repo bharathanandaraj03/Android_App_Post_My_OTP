@@ -11,3 +11,6 @@ Solution :
 2)	Web application send OTP SMS message to Mobile number which is linked with the account
 3)	Once SMS received to mobile “PMOTP” app reads the message and sends it back to webserver API call
 4)	Automated test suite then reads the OTP from file and enters into application for automation
+
+Please refer the wiki page for more details 
+https://github.com/bharathanandaraj03/Android_App_Post_My_OTP/wiki/Automating-2-Factor-Authentication-(2FA)
