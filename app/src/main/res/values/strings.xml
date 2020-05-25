@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">POST My OTP APP</string>
+    <string name="edit_message">Enter a input</string>
+    <string name="button_send">Send</string>
+    <string name="server_name">Send</string>
+    <string name="PostAPITestText">PostAPITest</string>
+    <string name="api_URL">https://192.168.0.12:4443</string>
+</resources>
